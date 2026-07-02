@@ -1,5 +1,5 @@
 <?php 
-    echo "Hello git HUB";
+    echo "NAMHOM";
     echo "FAHJAI";
     echo "MOOK";
 ?>
